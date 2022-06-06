@@ -1,2 +1,2 @@
 # Free code camp exercise
-Free code camp finished exercise 1
+Odradjene vezbe sa freecodecamp.com
