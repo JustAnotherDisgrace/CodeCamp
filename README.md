@@ -1,2 +1,2 @@
-# fcd
-Free code camp finished excercise 1
+# Free code camp exercise
+Free code camp finished exercise 1
